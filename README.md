@@ -18,7 +18,7 @@ My name's Matthieu, I'm a Computer Science student currently at [EPITA](https://
 - **OCR**
 > Implementation of a neural network learning algorithm to recognize characters in C.
 - **Scientist Poro**
-> Discord bot in Python that use Riot Games API.
+> Discord bot in JavaScript that use Riot Games API.
 
 ---
 ### Stats
